@@ -3,9 +3,9 @@ setlocal enabledelayedexpansion
 title To-Do List App - Setup and Launch
 cd /d "%~dp0"
 
-echo ===================================================
-echo   To-Do List App - Windows Startup Script
-echo ===================================================
+echo =====================================================================
+echo   To-Do List App - Windows Startup Script (Was made by Oleh Datsyk)
+echo =====================================================================
 echo.
 
 REM ---------------------------------------------------
